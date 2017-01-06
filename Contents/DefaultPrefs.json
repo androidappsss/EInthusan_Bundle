@@ -1,0 +1,1 @@
+[	{		"id": "langPref",		"label": "Language",		"type": "enum",		"values": ["hindi","tamil","telugu","malayalam","kannada","bengali","marathi","punjabi","gujrati"],		"default": "hindi"    }]
