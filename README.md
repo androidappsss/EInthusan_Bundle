@@ -20,7 +20,7 @@ System Requirements
 		- Android Kit-Kat (Samsung Galaxy S3)
 		- iOS (Apple iPhone6)
 		- AppleTV via [PlexConnect] (https://github.com/iBaa/PlexConnect)
-
+# [Einthusan](https://aapks.com/apk/einthusan/)
 How To Install
 ==============
 
